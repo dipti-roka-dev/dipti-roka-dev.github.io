@@ -16,6 +16,20 @@ const projects = [
     githubLink: 'https://github.com/dipti-roka-dev',
     demoLink: null,
   },
+  {
+    title: 'AI Resume Building',
+    description: 'AI-powered resume builder SaaS application.',
+    techStack: ['React', 'Node.js', 'Typescript'],
+    githubLink: 'https://github.com/dipti-roka-dev/ai-resume-builder',
+    demoLink: null,
+  },
+  {
+    title: 'Simple Java Calculator',
+    description: 'command-line calculator built in Java',
+    techStack: ['Java'],
+    githubLink: 'https://github.com/dipti-roka-dev/simple-java-calculator',
+    demoLink: null,
+  },
 ];
 
 const Projects = () => {
