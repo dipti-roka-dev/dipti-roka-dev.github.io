@@ -11,9 +11,9 @@ const projects = [
   },
   {
     title: 'Parking Rates App',
-    description: 'App to calculate parking rates with weekend and disabled pricing.',
+    description: 'App to calculate parking rates with weekend and hourly pricing.',
     techStack: ['React', 'Node.js', 'Vite'],
-    githubLink: 'https://github.com/dipti-roka-dev',
+    githubLink: 'https://dipti-roka-dev.github.io/Parking-rate-app/',
     demoLink: null,
   },
   {
